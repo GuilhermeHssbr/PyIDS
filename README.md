@@ -121,6 +121,8 @@ sudo python3 main.py
 ```
 
 Pressione **Q** para encerrar.
+<img width="1323" height="587" alt="idsprojeto2" src="https://github.com/user-attachments/assets/3890086a-aea4-4e84-a6db-74142cb0c14e" />
+
 
 ---
 
